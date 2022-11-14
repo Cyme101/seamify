@@ -8,7 +8,7 @@ This project is close to my heart as this project is the idea that I originally 
 
 The application serves to connect local seamstresses with customers through alterations and repairs. The idea is to be community-oriented and contribute to sustainability.
 
-In our user story, the customer searches by selecting the type of clothing, alteration or repair type, the material type along with their postal code. 
+In our user story, the customer searches by selecting the type of clothing, alteration or repair type, the material type along with their postal code.
 
 The customer gets a list of nearby seamstresses that can perform that type of alteration or repair. Then by visiting the seamstress profile page, the customer can contact that seamstress and place an order.
 
@@ -18,11 +18,9 @@ This was the 2 weeks final project that I have developed with my team of 3 devel
 
 It has been deployed on Heroku.
 
-
 ## Website
 
-You can view our website here: http://www.seamify.ca/
-
+You can view our website here: <http://www.seamify.ca/>
 
 ## Built With
 
@@ -36,4 +34,4 @@ You can view our website here: http://www.seamify.ca/
 
 ## Presentation
 
-You can view our presentation in front of an audience here @ Le Wagon: https://www.youtube.com/watch?v=MSlCtJjQQbo
+You can view our presentation in front of an audience here @ Le Wagon: <https://www.youtube.com/watch?v=MSlCtJjQQbo>
